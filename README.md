@@ -4,7 +4,7 @@ Welcome to the `GeomPattern' repository! This project is a programm developed by
 
 ## What is this project? 🤔
 
-This is my term paper on structural programming
+This is my term paper on structural programming.
 It's a programm developed in C++(VisualForms). The program allows you to render a predefined image by changing some parameters(colour, scale, fill).
 
 ## What are the main files in this project? 📂
