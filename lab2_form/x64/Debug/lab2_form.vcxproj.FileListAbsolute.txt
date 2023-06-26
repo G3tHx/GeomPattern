@@ -1,0 +1,28 @@
+C:\Users\qwerty\OneDrive\_Лабы_СП\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.AssemblyReference.cache
+C:\Users\qwerty\OneDrive\_Лабы_СП\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\qwerty\OneDrive\_Лабы_СП\lab2_form\lab2_form\x64\Debug\lab2form.MyForm.resources
+C:\Users\qwerty\OneDrive\_Лабы_СП\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.GenerateResource.cache
+C:\Users\qwerty\OneDrive\_Лабы_СП\_Лаба2\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.AssemblyReference.cache
+C:\Users\qwerty\OneDrive\_Лабы_СП\_Лаба2\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\qwerty\OneDrive\_Лабы_СП\_Лаба2\lab2_form\lab2_form\x64\Debug\lab2form.MyForm.resources
+C:\Users\qwerty\OneDrive\_Лабы_СП\_Лаба2\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.GenerateResource.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.AssemblyReference.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form\lab2_form\x64\Debug\lab2form.MyForm.resources
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.GenerateResource.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form — копия\lab2_form\x64\Debug\lab2_form.vcxproj.AssemblyReference.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form — копия\lab2_form\x64\Debug\lab2_form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form — копия\lab2_form\x64\Debug\lab2form.MyForm.resources
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form — копия\lab2_form\x64\Debug\lab2_form.vcxproj.GenerateResource.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form — копия — копия\lab2_form\x64\Debug\lab2_form.vcxproj.AssemblyReference.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form — копия — копия\lab2_form\x64\Debug\lab2_form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form — копия — копия\lab2_form\x64\Debug\lab2_form.vcxproj.GenerateResource.cache
+C:\Users\qwerty\OneDrive - Череповецкий Государственный Университет\сп_курсач\lab2_form — копия — копия\lab2_form\x64\Debug\kursach.MyForm.resources
+C:\Users\Asus\source\repos\lab2_form — копия — копия\lab2_form\x64\Debug\lab2_form.vcxproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\lab2_form — копия — копия\lab2_form\x64\Debug\lab2_form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\lab2_form — копия — копия\lab2_form\x64\Debug\kursach.MyForm.resources
+C:\Users\Asus\source\repos\lab2_form — копия — копия\lab2_form\x64\Debug\lab2_form.vcxproj.GenerateResource.cache
+D:\СтруктуркаКУрсовая\курсоваяver1\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.AssemblyReference.cache
+D:\СтруктуркаКУрсовая\курсоваяver1\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.SuggestedBindingRedirects.cache
+D:\СтруктуркаКУрсовая\курсоваяver1\lab2_form\lab2_form\x64\Debug\kursach.MyForm.resources
+D:\СтруктуркаКУрсовая\курсоваяver1\lab2_form\lab2_form\x64\Debug\lab2_form.vcxproj.GenerateResource.cache

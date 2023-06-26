@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab2_form.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+D:\СтруктуркаКУрсовая\курсоваяver1\lab2_form\lab2_form\MyForm.h(372,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\СтруктуркаКУрсовая\курсоваяver1\lab2_form\lab2_form\MyForm.h(556,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\СтруктуркаКУрсовая\курсоваяver1\lab2_form\lab2_form\MyForm.cpp(9,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab2_form.vcxproj -> D:\СтруктуркаКУрсовая\курсоваяver1\lab2_form\x64\Debug\kursach.exe
